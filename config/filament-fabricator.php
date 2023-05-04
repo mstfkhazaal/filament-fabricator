@@ -42,4 +42,6 @@ return [
      * used by the above page-model shipped with this package.
      */
     'table_name' => 'pages',
+    'group_name' => 'blog',
+
 ];
